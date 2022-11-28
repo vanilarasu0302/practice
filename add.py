@@ -1,3 +1,3 @@
 a = 8888
-b =11111
-print(a-b)
+b = 2222
+print(a+b)
